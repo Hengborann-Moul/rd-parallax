@@ -422,7 +422,7 @@
         function Scene(element, aliases, windowWidth, windowHeight) {
           var scene;
           scene = this;
-          scene.amend = isWebkit ? 60 : 0;
+          scene.amend = /*isWebkit ? 60 : */0; /* remove the webkit exception */
           scene.element = element;
           scene.aliases = aliases;
           scene.on = true;

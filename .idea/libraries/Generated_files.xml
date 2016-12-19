@@ -83,6 +83,7 @@
       <root url="file://$PROJECT_DIR$/demo/js/pointer-events.min.min.min.js" />
       <root url="file://$PROJECT_DIR$/demo/js/jquery.swiper.min.min.min.js" />
     </CLASSES>
+    <JAVADOC />
     <SOURCES />
   </library>
 </component>

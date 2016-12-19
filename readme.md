@@ -4,7 +4,7 @@ Easy and Flexible multilayer parallax effect. Easy integration with other plugin
 
 Check out this [Demo](http://cms.devoffice.com/coding-dev/rd-parallax/demo/) to see it in action!
 
-Extended documentation is available here: [Documentation](http://cms.devoffice.com/coding-dev/rd-parallax/documentation/)
+It's a fork to resolve a viewport issue with Chrome.
 
 ## Setup
 The HTML markdown is really simple. Just create a set of layers that you want to move within your parallax scene giving
@@ -42,7 +42,6 @@ $(document).ready(function () {
 
 ## Further Customization
 
-Check out our extended documentation for additional instructions: [Documentation](http://cms.devoffice.com/coding-dev/rd-parallax/documentation/)
 
 ## License
 Licensed under dual [CC By-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
