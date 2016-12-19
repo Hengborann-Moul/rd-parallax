@@ -1,10 +1,8 @@
 # RD Parallax
 
+It's a fork to resolve a viewport issue with Chrome from the original repo : [https://github.com/TemplatemonsterPlugins/rd-parallax](https://github.com/TemplatemonsterPlugins/rd-parallax)
+
 Easy and Flexible multilayer parallax effect. Easy integration with other plugins.
-
-Check out this [Demo](http://cms.devoffice.com/coding-dev/rd-parallax/demo/) to see it in action!
-
-It's a fork to resolve a viewport issue with Chrome.
 
 ## Setup
 The HTML markdown is really simple. Just create a set of layers that you want to move within your parallax scene giving
