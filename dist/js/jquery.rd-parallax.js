@@ -122,11 +122,12 @@
           layer.speed = layer.getOption("speed", windowWidth) || 0;
           layer.offset = layer.getOption("offset", windowWidth) || 0;
           if (!isMobile && !(isWin8 && isIE)) {
-            if (sceneOn) {
+            /*if (sceneOn) {
               layer.element.style["position"] = "fixed";
             } else {
               layer.element.style["position"] = "absolute";
-            }
+            }*/
+            layer.element.style["position"] = "absolute";
           }
           if (isIE && layer.type === "html") {
             layer.element.style["position"] = "absolute";
